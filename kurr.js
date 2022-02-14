@@ -1,4 +1,4 @@
-﻿///----------( Created By KurrXd )----------\\\
+﻿///----------( Created By   𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳 )----------\\\
 
 /**
 BASE:DENIS
@@ -9,7 +9,7 @@ TQ TO:
 @PAJAR
 @KEMOL
 @ADI
-@KurrXd
+@  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳
 @Finx
 * Note:
 * Kalau Mau Recode/Reupload Kasih Credit
@@ -1030,13 +1030,13 @@ if (!settings.autorecording) {
 kurr.updatePresence(from, Presence.recording)
 }
 if (budy.startsWith('kurr')){
-sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*_© KurrXd_*", [{buttonId: 'igm', buttonText: {displayText: 'Instagram'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
+sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*_©   𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳_*", [{buttonId: 'igm', buttonText: {displayText: 'Instagram'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 }
 if(isButton == 'igm'){
 reply('http://instagram.com/kurrsadboy')
 }
 if(isButton == 'ytm'){
-reply('http://youtube.com/c/KurrXd')
+reply('http://youtube.com/c/  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳')
 }
 
    const sotoy = [
@@ -1137,7 +1137,7 @@ else if(menusimpel = true){
 				stst = stst.status == 401 ? '' : stst.status
        menu = `┌───「 \`\`\`Kurz Bot Assistan\`\`\` 」
 │
-🏴‍☠️ _Creator : *KurrXd* 
+🏴‍☠️ _Creator : *  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳* 
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
@@ -1172,7 +1172,7 @@ stod = `${sender}`
 				stst = stst.status == 401 ? '' : stst.status
 			
 menunya = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳*
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
@@ -1460,7 +1460,7 @@ kurr.sendMessage(from, btnBngsat, MessageType.buttonsMessage, { quoted: ftrol, c
                   }
 break
         case 'store':
-        reply('*STORE MENU*\nREADY RDP BY KurrXd\n SPEK:\n RAM 8GB CORE 2\n35k minat ketik .owner')
+        reply('*STORE MENU*\nREADY RDP BY   𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳\n SPEK:\n RAM 8GB CORE 2\n35k minat ketik .owner')
         break
 case 'verify':
 if (isRegistered) return sticOk(from)
@@ -2678,7 +2678,7 @@ break
 		anu =`PRICELIST SEWABOT
 		10K:6BULAN
 		20K:MANEN
-		SC? YT KurrXd OFFICIAL`
+		SC? YT   𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳 OFFICIAL`
  buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},
 {buttonId:`donasi`,buttonText:{displayText:'💗DONASI💗'},type:1},
@@ -2763,7 +2763,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
       {
         "urlButton": {
           "displayText": `Script Kurz Bot Assistan`,
-          "url": "https://github.com/KurrXd"
+          "url": "https://github.com/  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳"
         },
         "index": 0
       }
@@ -5286,7 +5286,7 @@ Giliran = @${tty.player1.split('@')[0]}`
 
 /**
 * Thx To:
-KurrXd
+  𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳
 Dcode Denpa
 Yuzzu Kamiyaka
 **/
